@@ -1,0 +1,468 @@
+[
+  {
+    "id": "f2a86c2a-2ba4-4b88-8786-2b06ce8e6369",
+    "timestamp": "2026-09-28T18:09:31.871Z",
+    "recipient": "not-an-email",
+    "name": "Invalid User",
+    "status": "FAILED",
+    "mode": "VALIDATION",
+    "subject": "Birthday Wishes",
+    "error": "Invalid or missing email address."
+  },
+  {
+    "id": "3b42d564-5dac-4011-9e4b-55aad6b9457b",
+    "timestamp": "2026-09-28T18:09:31.869Z",
+    "recipient": "alex.mercer@aura.edu",
+    "name": "Alex Mercer",
+    "status": "SIMULATED (NO SMTP)",
+    "mode": "SIMULATED_LOCAL",
+    "subject": "🎉 Happy Birthday, Alex Mercer! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Alex Mercer! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and great mo...",
+    "configured": false,
+    "missingConfig": [
+      "SMTP_HOST",
+      "SMTP_USER",
+      "SMTP_PASS"
+    ],
+    "note": "External SMTP server is not configured. Email wish simulated and recorded locally for inspection.",
+    "error": null
+  },
+  {
+    "id": "e50f2fca-a772-418e-ae9f-880ff70325d8",
+    "timestamp": "2026-09-28T18:08:06.849Z",
+    "recipient": "not-an-email",
+    "name": "Invalid User",
+    "status": "FAILED",
+    "mode": "VALIDATION",
+    "subject": "Birthday Wishes",
+    "error": "Invalid or missing email address."
+  },
+  {
+    "id": "0298950e-d144-4af7-83f8-bedc907aea2b",
+    "timestamp": "2026-09-28T18:08:06.846Z",
+    "recipient": "alex.mercer@aura.edu",
+    "name": "Alex Mercer",
+    "status": "SIMULATED (NO SMTP)",
+    "mode": "SIMULATED_LOCAL",
+    "subject": "🎉 Happy Birthday, Alex Mercer! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Alex Mercer! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and great mo...",
+    "configured": false,
+    "missingConfig": [
+      "SMTP_HOST",
+      "SMTP_USER",
+      "SMTP_PASS"
+    ],
+    "note": "External SMTP server is not configured. Email wish simulated and recorded locally for inspection.",
+    "error": null
+  },
+  {
+    "id": "c080b386-c3f7-47a8-90d0-4e1e670d0129",
+    "timestamp": "2026-09-28T18:05:22.807Z",
+    "recipient": "not-an-email",
+    "name": "Invalid User",
+    "status": "FAILED",
+    "mode": "VALIDATION",
+    "subject": "Birthday Wishes",
+    "error": "Invalid or missing email address."
+  },
+  {
+    "id": "81ddff01-ad20-43bf-afbf-210061d03662",
+    "timestamp": "2026-09-28T18:05:22.805Z",
+    "recipient": "alex.mercer@aura.edu",
+    "name": "Alex Mercer",
+    "status": "SIMULATED (NO SMTP)",
+    "mode": "SIMULATED_LOCAL",
+    "subject": "🎉 Happy Birthday, Alex Mercer! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Alex Mercer! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and great mo...",
+    "configured": false,
+    "missingConfig": [
+      "SMTP_HOST",
+      "SMTP_USER",
+      "SMTP_PASS"
+    ],
+    "note": "External SMTP server is not configured. Email wish simulated and recorded locally for inspection.",
+    "error": null
+  },
+  {
+    "id": "13dd8712-cda1-4610-b5f0-c7dc246b9a0c",
+    "timestamp": "2026-09-28T17:50:23.361Z",
+    "recipient": "not-an-email",
+    "name": "Invalid User",
+    "status": "FAILED",
+    "mode": "VALIDATION",
+    "subject": "Birthday Wishes",
+    "error": "Invalid or missing email address."
+  },
+  {
+    "id": "1719d8e0-0303-473b-a8de-9dd32834cdf8",
+    "timestamp": "2026-09-28T17:50:23.359Z",
+    "recipient": "alex.mercer@aura.edu",
+    "name": "Alex Mercer",
+    "status": "SIMULATED (NO SMTP)",
+    "mode": "SIMULATED_LOCAL",
+    "subject": "🎉 Happy Birthday, Alex Mercer! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Alex Mercer! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and great mo...",
+    "configured": false,
+    "missingConfig": [
+      "SMTP_HOST",
+      "SMTP_USER",
+      "SMTP_PASS"
+    ],
+    "note": "External SMTP server is not configured. Email wish simulated and recorded locally for inspection.",
+    "error": null
+  },
+  {
+    "id": "4f5f059e-f7cb-4ce5-bf0c-6af8a2752a38",
+    "timestamp": "2026-09-28T17:48:42.578Z",
+    "recipient": "not-an-email",
+    "name": "Invalid User",
+    "status": "FAILED",
+    "mode": "VALIDATION",
+    "subject": "Birthday Wishes",
+    "error": "Invalid or missing email address."
+  },
+  {
+    "id": "ab429843-f4e8-433b-b87c-fae7c5ced0ea",
+    "timestamp": "2026-09-28T17:48:42.575Z",
+    "recipient": "alex.mercer@aura.edu",
+    "name": "Alex Mercer",
+    "status": "SIMULATED (NO SMTP)",
+    "mode": "SIMULATED_LOCAL",
+    "subject": "🎉 Happy Birthday, Alex Mercer! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Alex Mercer! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and great mo...",
+    "configured": false,
+    "missingConfig": [
+      "SMTP_HOST",
+      "SMTP_USER",
+      "SMTP_PASS"
+    ],
+    "note": "External SMTP server is not configured. Email wish simulated and recorded locally for inspection.",
+    "error": null
+  },
+  {
+    "id": "9cc4597d-8403-4bf2-b6cb-72a7d1344e13",
+    "timestamp": "2026-09-28T17:29:16.818Z",
+    "recipient": "not-an-email",
+    "name": "Invalid User",
+    "status": "FAILED",
+    "mode": "VALIDATION",
+    "subject": "Birthday Wishes",
+    "error": "Invalid or missing email address."
+  },
+  {
+    "id": "e5faf209-2bfb-4b93-83ae-fb1f26d05959",
+    "timestamp": "2026-09-28T17:29:16.816Z",
+    "recipient": "alex.mercer@aura.edu",
+    "name": "Alex Mercer",
+    "status": "SIMULATED (NO SMTP)",
+    "mode": "SIMULATED_LOCAL",
+    "subject": "🎉 Happy Birthday, Alex Mercer! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Alex Mercer! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and great mo...",
+    "configured": false,
+    "missingConfig": [
+      "SMTP_HOST",
+      "SMTP_USER",
+      "SMTP_PASS"
+    ],
+    "note": "External SMTP server is not configured. Email wish simulated and recorded locally for inspection.",
+    "error": null
+  },
+  {
+    "id": "d89adedd-464e-44ce-ae52-e2329682738f",
+    "timestamp": "2026-09-28T17:25:36.534Z",
+    "recipient": "not-an-email",
+    "name": "Invalid User",
+    "status": "FAILED",
+    "mode": "VALIDATION",
+    "subject": "Birthday Wishes",
+    "error": "Invalid or missing email address."
+  },
+  {
+    "id": "51d71f76-f39d-4fb2-bc5f-c27fd8daaa0a",
+    "timestamp": "2026-09-28T17:25:36.532Z",
+    "recipient": "alex.mercer@aura.edu",
+    "name": "Alex Mercer",
+    "status": "SIMULATED (NO SMTP)",
+    "mode": "SIMULATED_LOCAL",
+    "subject": "🎉 Happy Birthday, Alex Mercer! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Alex Mercer! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and great mo...",
+    "configured": false,
+    "missingConfig": [
+      "SMTP_HOST",
+      "SMTP_USER",
+      "SMTP_PASS"
+    ],
+    "note": "External SMTP server is not configured. Email wish simulated and recorded locally for inspection.",
+    "error": null
+  },
+  {
+    "id": "6d0af218-b821-4859-9c55-1b6ebb089a80",
+    "timestamp": "2026-09-28T17:10:14.387Z",
+    "recipient": "not-an-email",
+    "name": "Invalid User",
+    "status": "FAILED",
+    "mode": "VALIDATION",
+    "subject": "Birthday Wishes",
+    "error": "Invalid or missing email address."
+  },
+  {
+    "id": "f9889255-e602-48fb-bfe8-60327f33a57a",
+    "timestamp": "2026-09-28T17:10:14.385Z",
+    "recipient": "alex.mercer@aura.edu",
+    "name": "Alex Mercer",
+    "status": "SIMULATED (NO SMTP)",
+    "mode": "SIMULATED_LOCAL",
+    "subject": "🎉 Happy Birthday, Alex Mercer! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Alex Mercer! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and great mo...",
+    "configured": false,
+    "missingConfig": [
+      "SMTP_HOST",
+      "SMTP_USER",
+      "SMTP_PASS"
+    ],
+    "note": "External SMTP server is not configured. Email wish simulated and recorded locally for inspection.",
+    "error": null
+  },
+  {
+    "id": "d5c7ba1f-f881-4ba4-8d78-6e970b7276df",
+    "timestamp": "2026-09-28T17:09:35.538Z",
+    "recipient": "not-an-email",
+    "name": "Invalid User",
+    "status": "FAILED",
+    "mode": "VALIDATION",
+    "subject": "Birthday Wishes",
+    "error": "Invalid or missing email address."
+  },
+  {
+    "id": "715e448d-b654-4727-81da-52a88e63ba9b",
+    "timestamp": "2026-09-28T17:09:35.536Z",
+    "recipient": "alex.mercer@aura.edu",
+    "name": "Alex Mercer",
+    "status": "SIMULATED (NO SMTP)",
+    "mode": "SIMULATED_LOCAL",
+    "subject": "🎉 Happy Birthday, Alex Mercer! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Alex Mercer! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and great mo...",
+    "configured": false,
+    "missingConfig": [
+      "SMTP_HOST",
+      "SMTP_USER",
+      "SMTP_PASS"
+    ],
+    "note": "External SMTP server is not configured. Email wish simulated and recorded locally for inspection.",
+    "error": null
+  },
+  {
+    "id": "3a595dc7-7c2e-4cf4-a587-a68fcd7a1ce6",
+    "timestamp": "2026-09-28T16:09:58.932Z",
+    "recipient": "not-an-email",
+    "name": "Invalid User",
+    "status": "FAILED",
+    "mode": "VALIDATION",
+    "subject": "Birthday Wishes",
+    "error": "Invalid or missing email address."
+  },
+  {
+    "id": "03b7f3f3-8684-4fee-93bb-cfe9489ce91d",
+    "timestamp": "2026-09-28T16:09:58.928Z",
+    "recipient": "alex.mercer@aura.edu",
+    "name": "Alex Mercer",
+    "status": "SIMULATED (NO SMTP)",
+    "mode": "SIMULATED_LOCAL",
+    "subject": "🎉 Happy Birthday, Alex Mercer! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Alex Mercer! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and great mo...",
+    "configured": false,
+    "missingConfig": [
+      "SMTP_HOST",
+      "SMTP_USER",
+      "SMTP_PASS"
+    ],
+    "note": "External SMTP server is not configured. Email wish simulated and recorded locally for inspection.",
+    "error": null
+  },
+  {
+    "id": "9c88f01c-8585-4f95-b2fa-7f6076653b1a",
+    "timestamp": "2026-09-28T15:38:50.872Z",
+    "recipient": "not-an-email",
+    "name": "Invalid User",
+    "status": "FAILED",
+    "mode": "VALIDATION",
+    "subject": "Birthday Wishes",
+    "error": "Invalid or missing email address."
+  },
+  {
+    "id": "48138ae3-8db8-490c-9ed3-d22c7ca415a7",
+    "timestamp": "2026-09-28T15:38:50.870Z",
+    "recipient": "alex.mercer@aura.edu",
+    "name": "Alex Mercer",
+    "status": "SIMULATED (NO SMTP)",
+    "mode": "SIMULATED_LOCAL",
+    "subject": "🎉 Happy Birthday, Alex Mercer! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Alex Mercer! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and great mo...",
+    "configured": false,
+    "missingConfig": [
+      "SMTP_HOST",
+      "SMTP_USER",
+      "SMTP_PASS"
+    ],
+    "note": "External SMTP server is not configured. Email wish simulated and recorded locally for inspection.",
+    "error": null
+  },
+  {
+    "id": "a2bdb32e-9f54-4558-afbd-7e48207ec153",
+    "timestamp": "2026-09-28T14:14:40.159Z",
+    "recipient": "not-an-email",
+    "name": "Invalid User",
+    "status": "FAILED",
+    "mode": "VALIDATION",
+    "subject": "Birthday Wishes",
+    "error": "Invalid or missing email address."
+  },
+  {
+    "id": "36bd3bc2-7fe9-4003-b3da-b997f2bc5f3d",
+    "timestamp": "2026-09-28T14:14:40.157Z",
+    "recipient": "alex.mercer@aura.edu",
+    "name": "Alex Mercer",
+    "status": "DELIVERED",
+    "mode": "SIMULATED_DEV",
+    "subject": "🎉 Happy Birthday, Alex Mercer! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Alex Mercer! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and great mo...",
+    "note": "SMTP not configured; simulated email logged successfully.",
+    "error": null
+  },
+  {
+    "id": "1334ea00-3c2c-45a6-8ce1-5c7c09bde211",
+    "timestamp": "2026-09-28T14:14:15.555Z",
+    "recipient": "not-an-email",
+    "name": "Invalid User",
+    "status": "FAILED",
+    "mode": "VALIDATION",
+    "subject": "Birthday Wishes",
+    "error": "Invalid or missing email address."
+  },
+  {
+    "id": "ce859398-a9e4-4392-be36-96a1e0128dc7",
+    "timestamp": "2026-09-28T14:14:15.553Z",
+    "recipient": "alex.mercer@aura.edu",
+    "name": "Alex Mercer",
+    "status": "DELIVERED",
+    "mode": "SIMULATED_DEV",
+    "subject": "🎉 Happy Birthday, Alex Mercer! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Alex Mercer! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and great mo...",
+    "note": "SMTP not configured; simulated email logged successfully.",
+    "error": null
+  },
+  {
+    "id": "71affc12-8a8e-4f8c-ae1c-0c1e77c0af39",
+    "timestamp": "2026-09-28T14:12:54.748Z",
+    "recipient": "not-an-email",
+    "name": "Invalid User",
+    "status": "FAILED",
+    "mode": "VALIDATION",
+    "subject": "Birthday Wishes",
+    "error": "Invalid or missing email address."
+  },
+  {
+    "id": "13af99cd-f917-41da-950f-3405169a6717",
+    "timestamp": "2026-09-28T14:12:54.744Z",
+    "recipient": "alex.mercer@aura.edu",
+    "name": "Alex Mercer",
+    "status": "DELIVERED",
+    "mode": "SIMULATED_DEV",
+    "subject": "🎉 Happy Birthday, Alex Mercer! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Alex Mercer! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and great mo...",
+    "note": "SMTP not configured; simulated email logged successfully.",
+    "error": null
+  },
+  {
+    "id": "861e0f08-6172-4572-b284-2c5268972b2a",
+    "timestamp": "2026-09-28T13:51:37.517Z",
+    "recipient": "not-an-email",
+    "name": "Invalid User",
+    "status": "FAILED",
+    "mode": "VALIDATION",
+    "subject": "Birthday Wishes",
+    "error": "Invalid or missing email address."
+  },
+  {
+    "id": "3da1b5d1-efa5-4067-a658-23fcd9bdb2dd",
+    "timestamp": "2026-09-28T13:51:37.515Z",
+    "recipient": "alex.mercer@aura.edu",
+    "name": "Alex Mercer",
+    "status": "DELIVERED",
+    "mode": "SIMULATED_DEV",
+    "subject": "🎉 Happy Birthday, Alex Mercer! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Alex Mercer! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and great mo...",
+    "note": "SMTP not configured; simulated email logged successfully.",
+    "error": null
+  },
+  {
+    "id": "bb62c87d-7554-4ad1-bb25-0c7265c4c769",
+    "timestamp": "2026-09-28T06:38:43.113Z",
+    "recipient": "marcus.sterling@aura.edu",
+    "name": "Marcus Sterling",
+    "status": "DELIVERED",
+    "mode": "SIMULATED_DEV",
+    "subject": "🎉 Happy Birthday, Marcus Sterling! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Marcus Sterling! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and grea...",
+    "note": "SMTP not configured; simulated email logged successfully.",
+    "error": null
+  },
+  {
+    "id": "7399a76f-baeb-4327-ac54-3660ff4ba266",
+    "timestamp": "2026-09-28T06:38:43.109Z",
+    "recipient": "elena.vance@aura.edu",
+    "name": "Dr. Elena Vance",
+    "status": "DELIVERED",
+    "mode": "SIMULATED_DEV",
+    "subject": "🎉 Happy Birthday, Dr. Elena Vance! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Dr. Elena Vance! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and grea...",
+    "note": "SMTP not configured; simulated email logged successfully.",
+    "error": null
+  },
+  {
+    "id": "20002c38-5bde-433b-bf15-67226bfd66ae",
+    "timestamp": "2026-09-28T06:38:43.104Z",
+    "recipient": "ariana.cole@campus.edu",
+    "name": "Ariana Cole",
+    "status": "DELIVERED",
+    "mode": "SIMULATED_DEV",
+    "subject": "🎉 Happy Birthday, Ariana Cole! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Ariana Cole! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and great mo...",
+    "note": "SMTP not configured; simulated email logged successfully.",
+    "error": null
+  },
+  {
+    "id": "12820b66-d951-4bb1-a2e7-eb477ed15ae7",
+    "timestamp": "2026-09-28T06:38:43.100Z",
+    "recipient": "alex.mercer@aura.edu",
+    "name": "Alex Mercer",
+    "status": "DELIVERED",
+    "mode": "SIMULATED_DEV",
+    "subject": "🎉 Happy Birthday, Alex Mercer! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Alex Mercer! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and great mo...",
+    "note": "SMTP not configured; simulated email logged successfully.",
+    "error": null
+  },
+  {
+    "id": "3043c31b-37ab-4be4-b3ba-6605056fee25",
+    "timestamp": "2026-09-28T06:38:43.011Z",
+    "recipient": "not-an-email",
+    "name": "Invalid User",
+    "status": "FAILED",
+    "mode": "VALIDATION",
+    "subject": "Birthday Wishes",
+    "error": "Invalid or missing email address."
+  },
+  {
+    "id": "455c229b-bd8b-47dc-a5d6-7b4e48613339",
+    "timestamp": "2026-09-28T06:38:43.008Z",
+    "recipient": "alex.mercer@aura.edu",
+    "name": "Alex Mercer",
+    "status": "DELIVERED",
+    "mode": "SIMULATED_DEV",
+    "subject": "🎉 Happy Birthday, Alex Mercer! Wishing you a wonderful day from Aura Academy",
+    "previewText": "Happy Birthday, Alex Mercer! 🎉\n\nOn behalf of everyone at Aura Academy, wishing you a wonderful birthday and a year filled with happiness, success, and great mo...",
+    "note": "SMTP not configured; simulated email logged successfully.",
+    "error": null
+  }
+]

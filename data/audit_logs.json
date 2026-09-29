@@ -1,0 +1,721 @@
+[
+  {
+    "id": "79097d50-d23a-4bbd-bcab-3daddb9a8364",
+    "timestamp": "2026-09-28T18:09:31.868Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "UNKNOWN-ROLL-999",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "a7e896d4-98fc-4914-b21c-12d8cba72ea3",
+    "timestamp": "2026-09-28T18:09:31.867Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "bbf457c5-6522-499d-9b67-d63992c29c52",
+    "timestamp": "2026-09-28T18:09:31.865Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "ccabf3b4-1308-46b6-8681-a938cd133dc5",
+    "timestamp": "2026-09-28T18:09:31.864Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "472ff17d-3ada-471b-a501-9e56242e6cef",
+    "timestamp": "2026-09-28T18:08:06.844Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "UNKNOWN-ROLL-999",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "14f73958-4bc5-42a8-b0ae-94de6f9b7b6f",
+    "timestamp": "2026-09-28T18:08:06.842Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "a6e8d6f7-7d75-4d72-a6e0-8ad2180d9a43",
+    "timestamp": "2026-09-28T18:08:06.840Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "a517b2d7-ab07-4910-8459-87a7f8791460",
+    "timestamp": "2026-09-28T18:08:06.839Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "5bb27bca-8a59-4b65-a430-6d287a8d51ac",
+    "timestamp": "2026-09-28T18:05:22.803Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "UNKNOWN-ROLL-999",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "a0438898-04d5-4826-974c-b7432fbbe13c",
+    "timestamp": "2026-09-28T18:05:22.802Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "d5ced00e-527f-442b-ae89-c6f2212ffaf3",
+    "timestamp": "2026-09-28T18:05:22.801Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "462a8586-429a-43ed-bdc4-e1f26f7a3224",
+    "timestamp": "2026-09-28T18:05:22.799Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "21a84260-cf4d-4494-93fe-d7cc50554c4a",
+    "timestamp": "2026-09-28T17:50:23.357Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "UNKNOWN-ROLL-999",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "7226800d-8acc-4454-85e0-23a08bb07370",
+    "timestamp": "2026-09-28T17:50:23.356Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "3a69ad6a-b721-4eb8-84f6-faf14cbadadc",
+    "timestamp": "2026-09-28T17:50:23.355Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "e63705de-cde5-4eea-9a38-b544589ba3c2",
+    "timestamp": "2026-09-28T17:50:23.353Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "8db8bb1b-1d34-45c4-81e3-2ce4e1bc4610",
+    "timestamp": "2026-09-28T17:48:42.574Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "UNKNOWN-ROLL-999",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "9a5452dd-e38a-4216-91ad-d33d1ff9fe55",
+    "timestamp": "2026-09-28T17:48:42.573Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "dff0c261-f741-42bf-8152-dbb09a9cf57a",
+    "timestamp": "2026-09-28T17:48:42.572Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "4a119735-486d-493e-a804-5527b85a731f",
+    "timestamp": "2026-09-28T17:48:42.571Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "4568d8a3-46a9-47d6-8d97-39df0423da98",
+    "timestamp": "2026-09-28T17:29:16.814Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "UNKNOWN-ROLL-999",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "2a847cc7-1f64-42a0-9850-50c1a4101358",
+    "timestamp": "2026-09-28T17:29:16.813Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "2d953807-05a1-4a84-aeb9-ff73bbebe420",
+    "timestamp": "2026-09-28T17:29:16.812Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "95d54b44-ecb8-419b-a0af-58ee35909dfd",
+    "timestamp": "2026-09-28T17:29:16.810Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "11b81369-7b30-4240-97bc-645301106fa0",
+    "timestamp": "2026-09-28T17:25:36.531Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "UNKNOWN-ROLL-999",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "05b7f3b7-9312-4697-854a-28188a09572a",
+    "timestamp": "2026-09-28T17:25:36.530Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "f4484935-d4f0-4a10-99e9-5e2b2e4cfb17",
+    "timestamp": "2026-09-28T17:25:36.528Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "7da9d56f-7b46-4269-a1ce-25e881267538",
+    "timestamp": "2026-09-28T17:25:36.527Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "454a98f9-f5ae-4fc3-88cf-78bfa049785f",
+    "timestamp": "2026-09-28T17:10:14.383Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "UNKNOWN-ROLL-999",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "79139e54-195d-4e35-9c3e-9f1339cf001b",
+    "timestamp": "2026-09-28T17:10:14.382Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "22b25d79-794d-4367-9294-d18d9ac2534f",
+    "timestamp": "2026-09-28T17:10:14.380Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "dc961181-9cc8-49c7-8919-2ef7db4c01bb",
+    "timestamp": "2026-09-28T17:10:14.379Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "aa009303-2a06-433d-a5f9-7ffe28ef49ef",
+    "timestamp": "2026-09-28T17:09:35.535Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "UNKNOWN-ROLL-999",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "d1a95f20-7c6a-479b-ae45-c84a2895f9c9",
+    "timestamp": "2026-09-28T17:09:35.533Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "1f721a42-5372-41be-8078-892fbc1a70b9",
+    "timestamp": "2026-09-28T17:09:35.532Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "2b74867b-cb0d-463e-b65d-de7732162606",
+    "timestamp": "2026-09-28T17:09:35.531Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "15b2b21c-590a-4f95-80ad-9d906ee2c1c9",
+    "timestamp": "2026-09-28T16:09:58.924Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "UNKNOWN-ROLL-999",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "4167e4cc-4424-4054-bab0-d61c045f1e82",
+    "timestamp": "2026-09-28T16:09:58.919Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "8291c30a-cfde-431c-b2ad-e981dd267062",
+    "timestamp": "2026-09-28T16:09:58.918Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "39b0fcd3-4eb1-4eff-a03b-229b8e78f3d9",
+    "timestamp": "2026-09-28T16:09:58.916Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "b3cdb005-fd0d-4cbc-ac27-6c9acaeab1a9",
+    "timestamp": "2026-09-28T15:38:50.868Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "UNKNOWN-ROLL-999",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "3145fcda-90eb-4d88-a27e-192ee739893f",
+    "timestamp": "2026-09-28T15:38:50.865Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "47fe4022-784e-4e60-bf9a-bdbc3aec0b98",
+    "timestamp": "2026-09-28T15:38:50.863Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "307e4fc0-89ef-4a5f-9d72-651269cbaede",
+    "timestamp": "2026-09-28T15:38:50.862Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "0f8acff3-0709-4a81-b46c-af9239f6f3b6",
+    "timestamp": "2026-09-28T14:14:40.155Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "UNKNOWN-ROLL-999",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "92390d6b-35f6-4fe9-9992-51af5ee8cd0a",
+    "timestamp": "2026-09-28T14:14:40.153Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "e8297a34-1835-4176-a4db-4dd23506ff4e",
+    "timestamp": "2026-09-28T14:14:40.152Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "e4709b70-6bb8-4173-a3bd-f3cafd78ae89",
+    "timestamp": "2026-09-28T14:14:15.551Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "UNKNOWN-ROLL-999",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "84b450a1-e215-4355-83f5-0fd9c51e81bf",
+    "timestamp": "2026-09-28T14:14:15.549Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "019be9cd-b816-4f96-97de-67ef972a5eec",
+    "timestamp": "2026-09-28T14:14:15.547Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "fa0511dc-3b54-42bc-b5bb-110498946c32",
+    "timestamp": "2026-09-28T14:12:54.742Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "UNKNOWN-ROLL-999",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "d51edf4f-0efc-47e8-9a78-47ee923a90f5",
+    "timestamp": "2026-09-28T14:12:54.740Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "d522dbbb-d7f7-480c-a849-9f8039e24ad6",
+    "timestamp": "2026-09-28T14:12:54.737Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "452be74c-27ab-4a19-acf3-f7e6750cd178",
+    "timestamp": "2026-09-28T13:51:37.514Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "UNKNOWN-ROLL-999",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "a0c01434-9510-4c7f-88b8-47aa79d7bf86",
+    "timestamp": "2026-09-28T13:51:37.512Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "fe71644e-772e-4002-8fbf-83f51c11db1d",
+    "timestamp": "2026-09-28T13:51:37.510Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "730ca149-c169-4cbf-9f8e-df3947d4dcdd",
+    "timestamp": "2026-09-28T06:38:43.005Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "UNKNOWN-ROLL-999",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "225bebb1-1bb3-4050-9d3d-a01d1774d26a",
+    "timestamp": "2026-09-28T06:38:42.968Z",
+    "action": "AUTO_VERIFICATION_PENDING",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "reason": "No matching record with Roll Number & Date of Birth found in registrar database."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  },
+  {
+    "id": "85204237-e3da-4f79-9687-cff6291ac547",
+    "timestamp": "2026-09-28T06:38:42.964Z",
+    "action": "AUTO_VERIFICATION_SUCCESS",
+    "details": {
+      "rollNumber": "CR80-NFC-ED25519",
+      "fullName": "Alex Mercer",
+      "matchedRole": "student",
+      "reason": "Matched authoritative registrar database by Roll Number and Date of Birth."
+    },
+    "actor": "SYSTEM",
+    "ip": "unknown"
+  }
+]

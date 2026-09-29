@@ -1,0 +1,92 @@
+[
+  {
+    "rollNumber": "CR80-NFC-ED25519",
+    "fullName": "Alex Mercer",
+    "dob": "2002-09-28",
+    "email": "alex.mercer@aura.edu",
+    "role": "student",
+    "studentType": "Day Scholar",
+    "section": "Alpha-1",
+    "institution": "Aura Academy",
+    "department": "School of Engineering",
+    "degreeProgram": "B.Sc. Computer Science",
+    "batch": "2024 – 2028",
+    "address": "Apt 104, West Hall, 280 University Ave, Cambridge, MA"
+  },
+  {
+    "rollNumber": "CSE2027041",
+    "fullName": "Ariana Cole",
+    "dob": "2003-09-28",
+    "email": "ariana.cole@campus.edu",
+    "role": "student",
+    "studentType": "Hosteler",
+    "section": "Section B",
+    "institution": "Aura Academy",
+    "department": "Department of Artificial Intelligence",
+    "degreeProgram": "B.Tech Computer Science & AI",
+    "batch": "2023 – 2027",
+    "address": "742 Evergreen Terrace, Springfield, MA 01105"
+  },
+  {
+    "rollNumber": "AURA-STU-8821",
+    "fullName": "Kiran Sharma",
+    "dob": "2004-03-15",
+    "email": "kiran.sharma@aura.edu",
+    "role": "student",
+    "studentType": "Day Scholar",
+    "section": "Section C",
+    "institution": "Aura Academy",
+    "department": "School of Design",
+    "degreeProgram": "B.Des Digital Media",
+    "batch": "2024 – 2028",
+    "address": "48 Crescent Grove, Design District, Boston, MA"
+  },
+  {
+    "rollNumber": "FAC-CS-101",
+    "fullName": "Dr. Elena Vance",
+    "dob": "1985-09-28",
+    "email": "elena.vance@aura.edu",
+    "role": "faculty",
+    "institution": "Aura Academy",
+    "department": "School of Engineering",
+    "degreeProgram": "Professor of Distributed Systems",
+    "batch": "Tenured Faculty",
+    "address": "15 Highland Ave, Apt 4B, Somerville, MA 02143"
+  },
+  {
+    "rollNumber": "FAC-MATH-202",
+    "fullName": "Prof. David Miller",
+    "dob": "1980-11-12",
+    "email": "david.miller@aura.edu",
+    "role": "faculty",
+    "institution": "Aura Academy",
+    "department": "Department of Applied Mathematics",
+    "degreeProgram": "Associate Professor",
+    "batch": "Faculty Member",
+    "address": "88 Elmwood Road, Newton, MA 02459"
+  },
+  {
+    "rollNumber": "STF-ADM-301",
+    "fullName": "Marcus Sterling",
+    "dob": "1990-09-28",
+    "email": "marcus.sterling@aura.edu",
+    "role": "staff",
+    "institution": "Aura Academy",
+    "department": "Office of the Registrar",
+    "degreeProgram": "Senior Academic Administrator",
+    "batch": "Administrative Staff",
+    "address": "214 Meadowbrook Lane, Belmont, MA 02478"
+  },
+  {
+    "rollNumber": "STF-OPS-402",
+    "fullName": "Sarah Jenkins",
+    "dob": "1992-06-20",
+    "email": "sarah.jenkins@aura.edu",
+    "role": "staff",
+    "institution": "Aura Academy",
+    "department": "Campus Security & Facilities",
+    "degreeProgram": "Operations Manager",
+    "batch": "Support Staff",
+    "address": "37 Oakwood Terrace, Medford, MA 02155"
+  }
+]
